@@ -1,0 +1,7 @@
+{
+  "name": "SAM Token",
+  "symbol": "$SAM",
+  "decimals": 18,
+  "description": "A token called SAM on the Fractal mainnet.",
+  "image": "https://github.com/kraymerica-llc/fra-sam-token/blob/cfe4f3083eca858727952ec0764d5692f90076ff/sam-token.jpg"
+}
